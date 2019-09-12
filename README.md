@@ -10,4 +10,4 @@ The DTI prediction model helped guide further development of DTI prediction meth
 be used for drug-repurposing, drug combinations and disease mechanism inferring studies.
 
 
-Data downloaded from [STITCH](http://stitch.embl.de) (2014 and 2016 release)
+Data downloaded from [STITCH](http://stitch.embl.de) (2014 release)
